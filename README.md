@@ -14,4 +14,4 @@ Welcome to the ServiceNow Developer Program's repository of apps created with Ap
 
 * [departmental-request](https://github.com/ServiceNowDevProgram/departmental-request) - App that handles requests to a specific department. Tables, catalog, workspace, flows, approvals, and security.
 
-* [Payroll-Case Application](https://github.com/ishaanshoor/ishaanservicenowapp) - App to handle payroll queries/requests using service catalog to submit request, tables , flow security.
+* [Payroll-Case Application](https://github.com/ishaanshoor/ishaanservicenowapp) - App to handle payroll queries/requests using service catalog to submit request, tables , flow, security.

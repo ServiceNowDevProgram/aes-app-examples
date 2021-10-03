@@ -13,3 +13,4 @@ Welcome to the ServiceNow Developer Program's repository of apps created with Ap
 ### AES App List
 
 * [departmental-request](https://github.com/ServiceNowDevProgram/departmental-request) - App that handles requests to a specific department. Tables, catalog, workspace, flows, approvals, and security.
+* https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile.git - App that is used to calculate the Carbon fottprint of a Server based on the data available in the CMDB and considering PUR and Carbon emission calculations.

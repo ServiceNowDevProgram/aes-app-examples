@@ -14,3 +14,4 @@ Welcome to the ServiceNow Developer Program's repository of apps created with Ap
 
 * [departmental-request](https://github.com/ServiceNowDevProgram/departmental-request) - App that handles requests to a specific department. Tables, catalog, workspace, flows, approvals, and security.
 * [Server Carbon Profile](https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile)  -App that calculates the Carbon fottprint of a Server based on the data available in the CMDB and considering PUE and Carbon emission calculations.- Tables, Flow actions, Flow and Security.
+* [Payroll-Case Application](https://github.com/ishaanshoor/ishaanservicenowapp) - App to handle payroll queries/requests using service catalog to submit request, tables , flow, security.
